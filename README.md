@@ -1,5 +1,5 @@
 # 💫 About Me:
-Acadêmica de Ciência da Computação pela UFPA<br>Conhecimento em Front-End e Back-End<br>Amo tudo que envolve programação e computadores<br>E café </>
+Acadêmica de Ciência da Computação pela UFPA<br>Conhecimento em Front-End e UX/UI<br>Amo tudo que envolve programação<br>E café </>
 
 
 ## 🌐 Socials:
